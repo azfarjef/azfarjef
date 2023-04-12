@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **python, javascript, c, c++, react and nodejs**
 
+- 👨‍💻 All of my web development projects are available at [https://codepen.io/Azfrjf](https://codepen.io/Azfrjf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/azfrjf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="azfrjf" height="30" width="40" /></a>
